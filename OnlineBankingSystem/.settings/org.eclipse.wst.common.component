@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="OnlineBankingSystem">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes/" source-path="/ImportedClasses"/>
+        <dependent-module archiveName="spring-context-support-4.0.3.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-context-support-4.0.3.RELEASE/spring-context-support-4.0.3.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-beans-4.0.3.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-beans-4.0.3.RELEASE/spring-beans-4.0.3.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="com.springsource.org.aopalliance-1.0.0.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/com.springsource.org.aopalliance-1.0.0/com.springsource.org.aopalliance-1.0.0">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="commons-logging-1.1.1.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/commons-logging-1.1.1/commons-logging-1.1.1">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="slf4j-api-1.5.6.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/slf4j-api-1.5.6/slf4j-api-1.5.6">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="standard.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/standard/standard">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-context-4.0.3.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-context-4.0.3.RELEASE/spring-context-4.0.3.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-expression-4.0.3.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-expression-4.0.3.RELEASE/spring-expression-4.0.3.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="validation-api-1.0.0.GA.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/validation-api-1.0.0.GA/validation-api-1.0.0.GA">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="hibernate-validator-4.0.2.GA.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/hibernate-validator-4.0.2.GA/hibernate-validator-4.0.2.GA">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="antlr-2.7.6.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/antlr-2.7.6/antlr-2.7.6">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jstl.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/jstl/jstl">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-web-4.0.3.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-web-4.0.3.RELEASE/spring-web-4.0.3.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-tx-4.0.3.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-tx-4.0.3.RELEASE/spring-tx-4.0.3.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-core-4.0.3.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-core-4.0.3.RELEASE/spring-core-4.0.3.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-aop-4.0.3.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-aop-4.0.3.RELEASE/spring-aop-4.0.3.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="hibernate-commons-annotations-3.0.0.ga.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/hibernate-commons-annotations-3.0.0.ga/hibernate-commons-annotations-3.0.0.ga">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-webmvc-4.0.3.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-webmvc-4.0.3.RELEASE/spring-webmvc-4.0.3.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="hibernate-annotations-3.3.1.GA.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/hibernate-annotations-3.3.1.GA/hibernate-annotations-3.3.1.GA">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="log4j.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/log4j/log4j">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-jdbc-4.0.3.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-jdbc-4.0.3.RELEASE/spring-jdbc-4.0.3.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="spring-aspects-4.0.3.RELEASE.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/spring-aspects-4.0.3.RELEASE/spring-aspects-4.0.3.RELEASE">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="slf4j-log4j12-1.5.6.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/slf4j-log4j12-1.5.6/slf4j-log4j12-1.5.6">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="aopalliance-1.0.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/aopalliance-1.0/aopalliance-1.0">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="classes12.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/classes12/classes12">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="context-root" value="OnlineBankingSystem"/>
+        <property name="java-output-path" value="/OnlineBankingSystem/build/classes"/>
+    </wb-module>
+</project-modules>
